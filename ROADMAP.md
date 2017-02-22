@@ -135,7 +135,7 @@ Our initial benchmarks show a significant improvement in rendering time and we a
 
 A big part of this release is a shift in focus from Marko being merely a templating language to a complete UI library.  As such, we are providing first-class support for components.
 
-You will no longer need to install `marko-components` as an external library, and there is more cohesion between the templates and components/components.
+You will no longer need to install `marko-widgets` as an external library, and there is more cohesion between the templates and components/components.
 
 ### Improved component lifecycle methods ([#396](https://github.com/marko-js/marko/issues/396))
 
